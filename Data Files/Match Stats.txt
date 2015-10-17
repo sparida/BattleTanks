@@ -1,0 +1,1094 @@
+Beginninng of Session
+
+Beginninng of Session
+
+Match 1 Stats
+s (Player 1) was the Winner!!!
+Hits:
+Player1:8
+Player2:0
+Bullets Used:
+Player1:27
+Player2:0
+
+Beginninng of Session
+
+Beginninng of Session
+
+Match 1 Stats
+s (Player 1) was the Winner!!!
+Hits:
+Player1:8
+Player2:0
+Bullets Used:
+Player1:10
+Player2:0
+
+Beginninng of Session
+
+Match 1 Stats
+Í˜Äv (Player 0) was the Winner!!!
+Hits:
+Player1:0
+Player2:0
+Bullets Used:
+Player1:4
+Player2:0
+
+End of Session.
+
+Beginninng of Session
+
+Match 1 Stats
+q (Player 1) was the Winner!!!
+Hits:
+Player1:8
+Player2:2
+Bullets Used:
+Player1:22
+Player2:22
+
+End of Session.
+
+Beginninng of Session
+
+End of Session.
+
+Beginninng of Session
+
+Beginninng of Session
+
+Match 1 Stats
+Í˜ôv (Player 0) was the Winner!!!
+Hits:
+Player1:4
+Player2:4
+Bullets Used:
+Player1:7
+Player2:0
+
+Beginninng of Session
+
+Match 1 Stats
+Í˜ôv (Player 0) was the Winner!!!
+Hits:
+Player1:0
+Player2:4
+Bullets Used:
+Player1:60
+Player2:0
+
+End of Session.
+
+Beginninng of Session
+
+Match 1 Stats
+s (Player 2) was the Winner!!!
+Hits:
+Player1:4
+Player2:7
+Bullets Used:
+Player1:273
+Player2:3
+
+Beginninng of Session
+
+Match 1 Stats
+Í˜ôv (Player 0) was the Winner!!!
+Hits:
+Player1:2
+Player2:5
+Bullets Used:
+Player1:8
+Player2:69
+
+Beginninng of Session
+
+Match 1 Stats
+s (Player 1) was the Winner!!!
+Hits:
+Player1:10
+Player2:6
+Bullets Used:
+Player1:81
+Player2:6
+
+End of Session.
+
+Beginninng of Session
+
+Match 1 Stats
+Í˜ôv (Player 0) was the Winner!!!
+Hits:
+Player1:6
+Player2:5
+Bullets Used:
+Player1:633
+Player2:123
+
+Beginninng of Session
+
+Match 1 Stats
+s (Player 1) was the Winner!!!
+Hits:
+Player1:7
+Player2:5
+Bullets Used:
+Player1:73
+Player2:239
+
+End of Session.
+
+Beginninng of Session
+
+Match 1 Stats
+s (Player 2) was the Winner!!!
+Hits:
+Player1:2
+Player2:10
+Bullets Used:
+Player1:2
+Player2:45
+
+End of Session.
+
+Beginninng of Session
+
+Match 1 Stats
+Í˜Ñv (Player 0) was the Winner!!!
+Hits:
+Player1:0
+Player2:0
+Bullets Used:
+Player1:14
+Player2:0
+
+Beginninng of Session
+
+Match 1 Stats
+Í˜Ñv (Player 0) was the Winner!!!
+Hits:
+Player1:0
+Player2:0
+Bullets Used:
+Player1:0
+Player2:0
+
+End of Session.
+
+Beginninng of Session
+
+Match 1 Stats
+s (Player 1) was the Winner!!!
+Hits:
+Player1:9
+Player2:0
+Bullets Used:
+Player1:35
+Player2:43
+
+End of Session.
+
+Beginninng of Session
+
+Beginninng of Session
+
+Match 1 Stats
+s (Player 2) was the Winner!!!
+Hits:
+Player1:0
+Player2:8
+Bullets Used:
+Player1:3
+Player2:0
+
+Match 2 Stats
+s (Player 1) was the Winner!!!
+Hits:
+Player1:0
+Player2:5
+Bullets Used:
+Player1:218
+Player2:0
+
+End of Session.
+
+Beginninng of Session
+
+Match 1 Stats
+Í˜„u (Player 0) was the Winner!!!
+Hits:
+Player1:6
+Player2:0
+Bullets Used:
+Player1:315
+Player2:10
+
+End of Session.
+
+Beginninng of Session
+
+Match 1 Stats
+s (Player 2) was the Winner!!!
+Hits:
+Player1:0
+Player2:8
+Bullets Used:
+Player1:30
+Player2:0
+
+Match 2 Stats
+s (Player 2) was the Winner!!!
+Hits:
+Player1:0
+Player2:7
+Bullets Used:
+Player1:1415
+Player2:158
+
+End of Session.
+
+Beginninng of Session
+
+Match 1 Stats
+s (Player 2) was the Winner!!!
+Hits:
+Player1:4
+Player2:7
+Bullets Used:
+Player1:403
+Player2:65
+
+End of Session.
+
+Beginninng of Session
+
+Match 1 Stats
+s (Player 2) was the Winner!!!
+Hits:
+Player1:0
+Player2:8
+Bullets Used:
+Player1:7
+Player2:0
+
+Match 2 Stats
+s (Player 2) was the Winner!!!
+Hits:
+Player1:0
+Player2:7
+Bullets Used:
+Player1:111
+Player2:464
+
+Match 3 Stats
+s (Player 2) was the Winner!!!
+Hits:
+Player1:-2
+Player2:7
+Bullets Used:
+Player1:279
+Player2:1081
+
+Match 4 Stats
+s (Player 0) was the Winner!!!
+Hits:
+Player1:6
+Player2:0
+Bullets Used:
+Player1:77
+Player2:142
+
+End of Session.
+
+Beginninng of Session
+
+Match 1 Stats
+d (Player 2) was the Winner!!!
+Hits:
+Player1:3
+Player2:7
+Bullets Used:
+Player1:1110
+Player2:333
+
+Match 2 Stats
+a (Player 2) was the Winner!!!
+Hits:
+Player1:0
+Player2:8
+Bullets Used:
+Player1:11
+Player2:0
+
+Match 3 Stats
+a (Player 0) was the Winner!!!
+Hits:
+Player1:0
+Player2:0
+Bullets Used:
+Player1:0
+Player2:0
+
+Match 4 Stats
+a (Player 0) was the Winner!!!
+Hits:
+Player1:0
+Player2:0
+Bullets Used:
+Player1:3
+Player2:0
+
+End of Session.
+
+Beginninng of Session
+
+Match 1 Stats
+Í˜©u (Player 0) was the Winner!!!
+Hits:
+Player1:0
+Player2:4
+Bullets Used:
+Player1:10
+Player2:0
+
+Beginninng of Session
+
+Match 1 Stats
+Í˜nw (Player 0) was the Winner!!!
+Hits:
+Player1:0
+Player2:0
+Bullets Used:
+Player1:8
+Player2:0
+
+Beginninng of Session
+
+Beginninng of Session
+
+Match 1 Stats
+s (Player 1) was the Winner!!!
+Hits:
+Player1:10
+Player2:6
+Bullets Used:
+Player1:7
+Player2:4
+
+Beginninng of Session
+
+Beginninng of Session
+
+End of Session.
+
+Beginninng of Session
+
+Match 1 Stats
+Í˜Üw (Player 0) was the Winner!!!
+Hits:
+Player1:0
+Player2:0
+Bullets Used:
+Player1:12
+Player2:0
+
+Match 2 Stats
+Í˜Üw (Player 0) was the Winner!!!
+Hits:
+Player1:0
+Player2:0
+Bullets Used:
+Player1:0
+Player2:0
+
+End of Session.
+
+Beginninng of Session
+
+Match 1 Stats
+Í˜Üw (Player 0) was the Winner!!!
+Hits:
+Player1:0
+Player2:0
+Bullets Used:
+Player1:7
+Player2:0
+
+End of Session.
+
+Beginninng of Session
+
+Match 1 Stats
+s (Player 2) was the Winner!!!
+Hits:
+Player1:0
+Player2:9
+Bullets Used:
+Player1:205
+Player2:51
+
+Match 2 Stats
+s (Player 0) was the Winner!!!
+Hits:
+Player1:0
+Player2:0
+Bullets Used:
+Player1:30
+Player2:73
+
+End of Session.
+
+Beginninng of Session
+
+Match 1 Stats
+Í˜£v (Player 0) was the Winner!!!
+Hits:
+Player1:0
+Player2:0
+Bullets Used:
+Player1:446
+Player2:0
+
+End of Session.
+
+Beginninng of Session
+
+Match 1 Stats
+ (Player 0) was the Winner!!!
+Hits:
+Player1:0
+Player2:0
+Bullets Used:
+Player1:176
+Player2:0
+
+End of Session.
+
+Beginninng of Session
+
+Match 1 Stats
+s (Player 2) was the Winner!!!
+Hits:
+Player1:0
+Player2:8
+Bullets Used:
+Player1:3
+Player2:0
+
+Match 2 Stats
+s (Player 0) was the Winner!!!
+Hits:
+Player1:3
+Player2:0
+Bullets Used:
+Player1:151
+Player2:56
+
+Match 3 Stats
+s (Player 0) was the Winner!!!
+Hits:
+Player1:0
+Player2:0
+Bullets Used:
+Player1:0
+Player2:0
+
+Beginninng of Session
+
+Match 1 Stats
+s (Player 1) was the Winner!!!
+Hits:
+Player1:8
+Player2:0
+Bullets Used:
+Player1:89
+Player2:0
+
+Beginninng of Session
+
+Match 1 Stats
+ (Player 0) was the Winner!!!
+Hits:
+Player1:0
+Player2:0
+Bullets Used:
+Player1:2
+Player2:0
+
+Match 2 Stats
+ (Player 0) was the Winner!!!
+Hits:
+Player1:0
+Player2:0
+Bullets Used:
+Player1:620
+Player2:100
+
+Match 3 Stats
+s (Player 1) was the Winner!!!
+Hits:
+Player1:8
+Player2:0
+Bullets Used:
+Player1:59
+Player2:0
+
+End of Session.
+
+Beginninng of Session
+
+Match 1 Stats
+ (Player 0) was the Winner!!!
+Hits:
+Player1:0
+Player2:0
+Bullets Used:
+Player1:0
+Player2:0
+
+Match 2 Stats
+ (Player 0) was the Winner!!!
+Hits:
+Player1:0
+Player2:0
+Bullets Used:
+Player1:0
+Player2:0
+
+Match 3 Stats
+ (Player 0) was the Winner!!!
+Hits:
+Player1:0
+Player2:0
+Bullets Used:
+Player1:13
+Player2:0
+
+Beginninng of Session
+
+Match 1 Stats
+ (Player 0) was the Winner!!!
+Hits:
+Player1:0
+Player2:0
+Bullets Used:
+Player1:130
+Player2:846
+
+End of Session.
+
+Beginninng of Session
+
+Match 1 Stats
+ (Player 0) was the Winner!!!
+Hits:
+Player1:0
+Player2:0
+Bullets Used:
+Player1:3
+Player2:0
+
+Match 2 Stats
+d (Player 1) was the Winner!!!
+Hits:
+Player1:7
+Player2:5
+Bullets Used:
+Player1:9
+Player2:6
+
+Match 3 Stats
+s (Player 1) was the Winner!!!
+Hits:
+Player1:7
+Player2:6
+Bullets Used:
+Player1:57
+Player2:5
+
+Match 4 Stats
+d (Player 1) was the Winner!!!
+Hits:
+Player1:7
+Player2:0
+Bullets Used:
+Player1:87
+Player2:0
+
+Match 5 Stats
+d (Player 0) was the Winner!!!
+Hits:
+Player1:2
+Player2:0
+Bullets Used:
+Player1:18
+Player2:0
+
+Match 6 Stats
+s (Player 1) was the Winner!!!
+Hits:
+Player1:7
+Player2:0
+Bullets Used:
+Player1:381
+Player2:82
+
+Beginninng of Session
+
+Match 1 Stats
+ (Player 0) was the Winner!!!
+Hits:
+Player1:0
+Player2:2
+Bullets Used:
+Player1:15
+Player2:0
+
+Beginninng of Session
+
+Match 1 Stats
+ (Player 0) was the Winner!!!
+Hits:
+Player1:0
+Player2:2
+Bullets Used:
+Player1:37
+Player2:0
+
+Beginninng of Session
+
+Match 1 Stats
+s (Player 1) was the Winner!!!
+Hits:
+Player1:10
+Player2:6
+Bullets Used:
+Player1:656
+Player2:60
+
+Match 2 Stats
+s (Player 2) was the Winner!!!
+Hits:
+Player1:0
+Player2:10
+Bullets Used:
+Player1:1
+Player2:0
+
+Match 3 Stats
+s (Player 1) was the Winner!!!
+Hits:
+Player1:28
+Player2:0
+Bullets Used:
+Player1:482
+Player2:3
+
+Match 4 Stats
+s (Player 1) was the Winner!!!
+Hits:
+Player1:32
+Player2:0
+Bullets Used:
+Player1:83
+Player2:3
+
+Match 5 Stats
+s (Player 1) was the Winner!!!
+Hits:
+Player1:16
+Player2:0
+Bullets Used:
+Player1:57
+Player2:2
+
+End of Session.
+
+Beginninng of Session
+
+Match 1 Stats
+ (Player 0) was the Winner!!!
+Hits:
+Player1:0
+Player2:0
+Bullets Used:
+Player1:56
+Player2:0
+
+End of Session.
+
+Beginninng of Session
+
+Match 1 Stats
+s (Player 1) was the Winner!!!
+Hits:
+Player1:8
+Player2:2
+Bullets Used:
+Player1:99
+Player2:13
+
+End of Session.
+
+Beginninng of Session
+
+Match 1 Stats
+s (Player 1) was the Winner!!!
+Hits:
+Player1:7
+Player2:2
+Bullets Used:
+Player1:210
+Player2:518
+
+Beginninng of Session
+
+Match 1 Stats
+ (Player 0) was the Winner!!!
+Hits:
+Player1:0
+Player2:4
+Bullets Used:
+Player1:146
+Player2:0
+
+End of Session.
+
+Beginninng of Session
+
+Match 1 Stats
+ (Player 0) was the Winner!!!
+Hits:
+Player1:0
+Player2:0
+Bullets Used:
+Player1:5
+Player2:0
+
+Match 2 Stats
+ (Player 0) was the Winner!!!
+Hits:
+Player1:0
+Player2:0
+Bullets Used:
+Player1:3
+Player2:0
+
+Beginninng of Session
+
+Match 1 Stats
+ (Player 0) was the Winner!!!
+Hits:
+Player1:6
+Player2:0
+Bullets Used:
+Player1:104
+Player2:0
+
+Beginninng of Session
+
+Match 1 Stats
+ (Player 0) was the Winner!!!
+Hits:
+Player1:0
+Player2:2
+Bullets Used:
+Player1:40
+Player2:0
+
+Match 2 Stats
+ (Player 0) was the Winner!!!
+Hits:
+Player1:0
+Player2:0
+Bullets Used:
+Player1:24
+Player2:0
+
+End of Session.
+
+Beginninng of Session
+
+Match 1 Stats
+s (Player 2) was the Winner!!!
+Hits:
+Player1:0
+Player2:8
+Bullets Used:
+Player1:4
+Player2:0
+
+End of Session.
+
+Beginninng of Session
+
+Match 1 Stats
+k (Player 2) was the Winner!!!
+Hits:
+Player1:0
+Player2:8
+Bullets Used:
+Player1:64
+Player2:11
+
+End of Session.
+
+Beginninng of Session
+
+Match 1 Stats
+k (Player 2) was the Winner!!!
+Hits:
+Player1:2
+Player2:7
+Bullets Used:
+Player1:128
+Player2:569
+
+Match 2 Stats
+s (Player 1) was the Winner!!!
+Hits:
+Player1:12
+Player2:0
+Bullets Used:
+Player1:0
+Player2:0
+
+Match 3 Stats
+s (Player 2) was the Winner!!!
+Hits:
+Player1:0
+Player2:8
+Bullets Used:
+Player1:28
+Player2:0
+
+Match 4 Stats
+s (Player 2) was the Winner!!!
+Hits:
+Player1:0
+Player2:1
+Bullets Used:
+Player1:817
+Player2:94
+
+Beginninng of Session
+
+Match 1 Stats
+ (Player 0) was the Winner!!!
+Hits:
+Player1:0
+Player2:0
+Bullets Used:
+Player1:0
+Player2:0
+
+Match 2 Stats
+ (Player 0) was the Winner!!!
+Hits:
+Player1:4
+Player2:0
+Bullets Used:
+Player1:190
+Player2:0
+
+End of Session.
+
+Beginninng of Session
+
+Match 1 Stats
+ (Player 0) was the Winner!!!
+Hits:
+Player1:0
+Player2:0
+Bullets Used:
+Player1:31
+Player2:0
+
+End of Session.
+
+Beginninng of Session
+
+Match 1 Stats
+ (Player 0) was the Winner!!!
+Hits:
+Player1:0
+Player2:0
+Bullets Used:
+Player1:75
+Player2:0
+
+End of Session.
+
+Beginninng of Session
+
+Match 1 Stats
+ (Player 0) was the Winner!!!
+Hits:
+Player1:0
+Player2:0
+Bullets Used:
+Player1:39
+Player2:0
+
+Match 2 Stats
+ (Player 0) was the Winner!!!
+Hits:
+Player1:0
+Player2:0
+Bullets Used:
+Player1:0
+Player2:0
+
+Match 3 Stats
+s (Player 2) was the Winner!!!
+Hits:
+Player1:0
+Player2:12
+Bullets Used:
+Player1:28
+Player2:0
+
+Match 4 Stats
+s (Player 1) was the Winner!!!
+Hits:
+Player1:34
+Player2:0
+Bullets Used:
+Player1:275
+Player2:0
+
+Match 5 Stats
+s (Player 0) was the Winner!!!
+Hits:
+Player1:4
+Player2:2
+Bullets Used:
+Player1:229
+Player2:0
+
+End of Session.
+
+Beginninng of Session
+
+Match 1 Stats
+ (Player 0) was the Winner!!!
+Hits:
+Player1:0
+Player2:0
+Bullets Used:
+Player1:3
+Player2:0
+
+Match 2 Stats
+ (Player 0) was the Winner!!!
+Hits:
+Player1:0
+Player2:8
+Bullets Used:
+Player1:44
+Player2:379
+
+End of Session.
+
+Beginninng of Session
+
+Beginninng of Session
+
+Match 1 Stats
+ (Player 0) was the Winner!!!
+Hits:
+Player1:0
+Player2:0
+Bullets Used:
+Player1:2
+Player2:0
+
+End of Session.
+
+Beginninng of Session
+
+Match 1 Stats
+ (Player 0) was the Winner!!!
+Hits:
+Player1:0
+Player2:0
+Bullets Used:
+Player1:50
+Player2:0
+
+End of Session.
+
+Beginninng of Session
+
+Match 1 Stats
+s (Player 1) was the Winner!!!
+Hits:
+Player1:32
+Player2:0
+Bullets Used:
+Player1:5
+Player2:0
+
+End of Session.
+
+Beginninng of Session
+
+Match 1 Stats
+ (Player 0) was the Winner!!!
+Hits:
+Player1:0
+Player2:8
+Bullets Used:
+Player1:50
+Player2:0
+
+End of Session.
+
+Beginninng of Session
+
+Beginninng of Session
+
+Beginninng of Session
+
+Beginninng of Session
+
+Beginninng of Session
+
+Beginninng of Session
+
+Beginninng of Session
+
+Match 1 Stats
+ (Player 0) was the Winner!!!
+Hits:
+Player1:0
+Player2:4
+Bullets Used:
+Player1:11
+Player2:0
+
+Beginninng of Session
+
+Beginninng of Session
+
+Beginninng of Session
+
+End of Session.
+
+Beginninng of Session
+
+End of Session.
+
+Beginninng of Session
+
+End of Session.
+
+Beginninng of Session
+
+End of Session.
+
+Beginninng of Session
+
+End of Session.
+

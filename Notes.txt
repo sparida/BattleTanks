@@ -1,0 +1,46 @@
+So here is the draw.
+The game interesting as it may seem, lacks coherence.
+It needs more functonality.
+And thats the next step.
+Landmines offering remote detonability and the flag capture mechanism.
+Pretty cool firework embedded into the game now.
+Well if not a succeSSful game, it would at the least stand tall as a graphics animation program. However such chances are slim. 
+Somebody using pejorative remarks about the game has to be a *******
+Up next, flag mechanism.
+Ok first things first.
+No more flag mechanism. Its Key Mechanism now. Somehow the concept of a self detonating structure within the structures of doom, seems weirdly fascinating.
+Finally 1500 lines of code have come together to form the third version of my project and hopefully it ends here.
+An idea had dawned. Lets make a bloody game for the project. It seemed too farfetched to turn into reality. It still
+seems so if I go over the source code. Well finally the journey has ended. The game is complete and worthy of being called a game. So whats next? 
+No idea.
+Minor Glitch.
+The game..how do i put it delicately, um...well it goes to sleep when a bomb explodes..need to fix that soon. Try now.
+Missile Added.
+Done with the game...no more changes.
+Fixed...
+Done..
+Amen
+
+Improvement in the form of a sprite editor named SpriteSquash which lets the 
+user edit game sprites and thus include minor animation to game objects.
+
+OK, lessons learnt in trying to avoid coding additional festures into game:
+1. Its no use trying to avoid yourself.
+2. Its no use trying to let go of a cool new time induced feature.
+3. Additional features are fun.
+4. More rigorous thought leads to the concept of weapon packs and tank types.
+   4.1. Weapon Packs -  Pretty much self explanatory.
+   4.2. Tank Types   -  Durability, Explosion Power, etc.
+5  And AI obviously.
+
+Probably, well to be honest most probably, i am leading myslef down to 2000 or maybe 3000 or more '\n's along the way to realise the above lines.
+But i guess the end product would turn out a proper GAME.
+
+So now there are two types of Barriers. Probably the second should be called a Quantum Barrier. (Whats in a a name huh?)
+And two other types of bombs which affect linearly.
+Weapon Pack are sufficient.
+
+To do:
+Tank durability and stuff
+AI 
+
